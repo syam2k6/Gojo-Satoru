@@ -19,18 +19,25 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['wa.me/+97252-297-2297']
-global.premium = ['wa.me/+97252-217-2297']
-global.ownernomer = 'wa.me/+97252-271-2297'
+global.owner = ['+97252-297-2297']
+global.premium = ['+97252-217-2297']
+global.ownernomer = '+97252-271-2297'
 global.ownername = 'ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒'
 global.botname = '𝑺𝜥𝑺 𝐵𝜣𝑻'
-global.footer = '©ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒.'
+global.footer = '©ㅤ꯭꯭꯭꯭꯭꯭꯭꯭𝐒ㅤ꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭𝜥ㅤ꯭𝐒.'
 global.ig = 'https://github.com/syam2k6'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/syam2k6/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel'
 global.packname = 'sticker by _sks_boss_'
-global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩ 972522712297'
+global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩'
+
+
+
+
+
+
+
 
 
 
