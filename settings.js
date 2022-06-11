@@ -29,7 +29,7 @@ global.ig = 'https://github.com/syam2k6'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/syam2k6/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel'
-global.packname = 'sticker by ꪶ٭𝑺𝜥𝑺 𝐵𝜣𝑇٭ꫂ𝄘⁩'
+global.packname = 'sticker by 𝑺𝜥𝑺 𝐵𝜣𝑇⁩'
 global.author = '_sks_boss_⁩'
 
 
