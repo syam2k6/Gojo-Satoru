@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              _SKS_BOSS_ 𝓫𝔂 syam
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,18 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+972522972297']
+global.owner = ['+972522712297']
 global.premium = ['+97252-217-2297']
 global.ownernomer = '+97252-271-2297'
-global.ownername = 'ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒'
+global.ownername = 'ㅤ꯭syam'
 global.botname = '𝑺𝜥𝑺 𝐵𝜣𝑻'
-global.footer = '©ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒.'
+global.footer = '©ꪶ٭𝑺𝜥𝑺 𝐵𝜣𝑆𝑆٭ꫂ⁩𝄘⁩'
 global.ig = 'https://github.com/syam2k6'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/syam2k6/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel'
+global.sc = 'https://github.com/syam2k6
 global.packname = 'sticker by _sks_boss_'
-global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩'
+global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩🤖 +972 52-297-2297'
 
 
 
@@ -40,7 +39,7 @@ global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩'
 
 
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🤠','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -67,7 +66,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('./sks/gojo.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
