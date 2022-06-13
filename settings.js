@@ -24,12 +24,12 @@ global.premium = ['+97252-217-2297']
 global.ownernomer = '+97252-271-2297'
 global.ownername = 'ㅤ꯭syam'
 global.botname = '𝑺𝜥𝑺 𝐵𝜣𝑻'
-global.footer = '©ꪶ٭𝑺𝜥𝑺 𝐵𝜣𝑆𝑆٭ꫂ⁩𝄘⁩'
+global.footer = '©٭𝑺𝜥𝑺 𝐵𝜣𝑆𝑆٭ꫂ𝄘⁩'
 global.ig = 'https://github.com/syam2k6'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/syam2k6
 global.packname = 'sticker by _sks_boss_'
-global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩🤖 +972 52-297-2297'
+global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩🤖972 52-297-2297'
 
 
 
